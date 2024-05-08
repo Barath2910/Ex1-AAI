@@ -1,7 +1,7 @@
 <H3> Name:  BARATH KUMAR J</H3>
 <H3>Register No: 212221230012</H3>
 <H3> Experiment 1</H3>
-<H3>DATE: 24.02.2024 </H3>
+<H3>DATE: 19.02.2024 </H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim:
